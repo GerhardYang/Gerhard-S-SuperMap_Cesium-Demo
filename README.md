@@ -1,3 +1,6 @@
+https://gerhardyang.github.io/SuperMapCesiumDemo
+
+
 <h3 id="example-1">目录结构</h3>
 
 范例目录结构：
@@ -29,9 +32,6 @@
  
  ![config](./config.png)
 
-<h3 id="example-7">注意事项</h3>
-
-暂无
 
                                
 
